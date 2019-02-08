@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        //int arr[]= new int [5];
         int arr []= {-5, 7, 12,0,-3};
         for (int i = 0; i < arr.length; i++){
             int min = arr[i];
